@@ -1,1 +1,0 @@
-export default e => window.docViewer.getAnnotationManager().getAnnotationByMouseEvent(e);

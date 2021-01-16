@@ -1,1 +1,0 @@
-export default annotations => window.docViewer.getAnnotationManager().getNumberOfGroups(annotations);
